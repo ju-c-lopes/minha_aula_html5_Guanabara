@@ -34,8 +34,68 @@ figure.foto-legenda figcaption {
 	padding: 10px;
 	box-sizing: border-box;
 	transition: 1.5s;
+	-webkit-transition: 1.5s;
+	-ms-transition: 1.5s;
+	-o-transition: 1.5s;
+	-moz-transition: 1.5s;
 }
 
 figure.foto-legenda figcaption:hover {
 	opacity: 1;
+}
+
+/* Formatação do Menu */
+
+/* Trabalha na área de navegação como um todo */
+nav#menu {
+	display: block;
+}
+
+/* Trabalha na lista como um todo */
+nav#menu ul{
+	list-style: none; /* retira os marcadores da lista */
+	text-transform: uppercase; /* transforma todas as letras em maiúscula */
+	position: absolute; /* posiciona a lista de forma absoluta dentro do site, ignorando o container NAV
+						   se quisesse fazer isso dentro do container NAV, ao invés de 'absolute' seria 'relative' */
+	top: -20px;
+	left: 300px;
+}
+
+/* Trabalha com os itens da lista */
+nav#menu li { 
+	display: inline-block; /* coloca os itens da lista um ao lado do outro */
+	background-color: #dddddd; /* Fundo cinza claro */
+	padding: 10px; /* aumenta o espaço dentro da área dos itens da lista */
+	margin: 2px; /* aumenta o espaço em volta dos itens fora da área dos itens da lista */
+	/*transition: background-color 1.5s; /* transição para o hover */
+}
+
+/* ação quando passar o mouse sobre os itens da lista */
+nav#menu li:hover {
+	background-color: #606060;
+	transition: background-color 1.5s; /* transição para o hover */
+	/* Prefixr para navegadores */
+	-webkit-transition: background-color 1.5s; /* Safari, chrome, android */
+	-ms-transition: background-color 1.5s; /* IntExplorer */
+	-moz-transition: background-color 1.5s; /* Mozilla */
+	-o-transition: background-color 1.5s; /* Opera */
+}
+
+nav#menu h1 {
+	display: none; /* Esconde os textos com 'h1' */
+}
+
+nav#menu a {
+	color: #000000;
+	text-decoration: none;
+	transition: 0.5s;
+	-webkit-transition: 0.5s;
+	-ms-transition: 0.5s;
+	-o-transition: 0.5s;
+	-moz-transition: 0.5s;
+}
+
+nav#menu a:hover {
+	color: #ffffff;
+	text-decoration: underline;
 }
