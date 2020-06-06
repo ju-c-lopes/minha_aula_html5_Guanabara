@@ -1,4 +1,4 @@
-<h1>Aulas HTML5<br/><img src="_imagens/me_peq.png" align="right"/></h1><br/>
+<h1>Aulas HTML5<img src="_imagens/me_peq.png" align="right"/></h1><br/>
 <br/>
 => Minhas aulas de HTML5, feita com Curso em Vídeo do Profº Guanabara<br/>
 <img src="_imagens/HTML5_logo.png" align="left"/>&nbsp;&nbsp;&nbsp;<img src="_imagens/CSS3_logo.png"/>
