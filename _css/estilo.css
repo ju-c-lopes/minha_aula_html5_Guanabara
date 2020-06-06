@@ -1,4 +1,9 @@
 @charset "UTF-8";
+@import url(https://fonts.googleapis.com/css2?family=Titillium+Web&display=swap); /* importando fonte externa */
+@font-face { /* Adicionando um estilo de fonte por css */
+	font-family: 'FonteLogo';
+	src: url("../_fonts/bubblegum-sans-regular.otf");
+}
 
 body{
     background-color: #dddddd;
@@ -6,7 +11,7 @@ body{
 }
 
 div#interface { /* a div está dentro de todo o body, diferente do menu principal que tem posição absoluta */
-	width: 900px;
+	width: 1100px;
 	background-color: #ffffff;
 /* a sequencia é definida por
 			cima, dir,baixo,esq */ 
@@ -32,21 +37,21 @@ header#cabecalho{
 }
 
 header#cabecalho h1 {
-	font-family: Arial, sans-serif;
+	font-family: 'FonteLogo', sans-serif;
 	font-size: 30pt;
 	color: #606060;
 	text-shadow: 1px 1px 1px rgba(0,0,0,.6);
 	padding: 0px;
-	margin-bottom: 10px;
+	margin-bottom: 0px;
 }
 
 header#cabecalho h2 {
-	font-family: Arial, sans-serif;
+	font-family: 'Titillium Web', sans-serif;
 	font-size: 15pt;
 	color: #888888;
 	padding: 0px;
-	margin-top: 10px;
-	margin-left: 30px;
+	margin-top: 0px;
+	margin-left: 0px;
 }
 
 p{
@@ -143,4 +148,28 @@ nav#menu a {
 nav#menu a:hover {
 	color: #ffffff;
 	text-decoration: underline;
+}
+
+section#corpo {
+	display: block;
+	width: 640px;
+	float: left;
+	border-right: 1px solid #606060;
+	padding-right: 15px;
+}
+
+aside#lateral {
+	display: block;
+	width: 420px;
+	float: right;
+	padding-right: 10px;
+}
+
+footer#rodape {
+	clear: both;
+	border-top: 1px solid #606060;
+}
+
+footer#rodape p {
+	text-align: center;
 }
