@@ -1,8 +1,10 @@
 <h1>Aulas HTML5<img src="_imagens/me_peq.png" align="right"/></h1><br/>
 <br/>
 <body background="_imagens/fundo.jpg">
-=> Minhas aulas de HTML5, feita com Curso em Vídeo do Profº Guanabara<br/>
-<img src="_imagens/HTML5_logo.png" align="left"/>&nbsp;&nbsp;&nbsp;<img src="_imagens/CSS3_logo.png"/>
+=> Minhas aulas de HTML5, feita com Curso em Vídeo do Profº Guanabara<br/><br/>
+<img src="_imagens/HTML5_logo.png" align="left"/><img src="_imagens/CSS3_logo.png"/>
+<br/>
+<br/>
 <br/>
 Até aqui:
 <ul type="circle">
