@@ -2,10 +2,9 @@
 <br/>
 <body background="_imagens/fundo.jpg">
 => Minhas aulas de HTML5, feita com Curso em Vídeo do Profº Guanabara<br/><br/>
+
 <img src="_imagens/HTML5_logo.png" align="left"/><img src="_imagens/CSS3_logo.png"/>
-<br/>
-<br/>
-<br/>
+<br/><br/><br/>
 Até aqui:
 <ul type="circle">
 	<li>Construção do index</li>
