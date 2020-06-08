@@ -17,11 +17,13 @@ Até aqui:
 	<li>Fontes em CSS3</li>
 	<li>Section, Aside, Footer</li>
 	<li>Formatando tabelas CSS3</li>
+	<li>Interfaces</li>
+	<li>Introdução ao JavaScript</li>
 </ul>
 <br/>
 
 <img src="_imagens/glass-oculos-preto-min.png"/>
-<a href="https://www.youtube.com/watch?v=-RCsJvfFKgw" target="_blank">Aula 20</a>
+<a href="https://www.youtube.com/watch?v=jXPU0uAzmYY" target="_blank">Aula 22</a><img src="_imagens/cursoemvideo-logo.png"/>
 <br/>
 &reg;
 <i>06/2020</i>
