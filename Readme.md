@@ -23,7 +23,7 @@ Até aqui:
 <br/>
 
 <img src="_imagens/glass-oculos-preto-min.png"/>
-<a href="https://www.youtube.com/watch?v=jXPU0uAzmYY" target="_blank">Aula 22</a><img src="_imagens/cursoemvideo-logo.png"/>
+<a href="https://www.youtube.com/watch?v=jXPU0uAzmYY" target="_blank">Aula 22</a><a href="https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ" target="_blank"><img src="_imagens/cursoemvideo-logo.png"/></a>
 <br/>
 &reg;
 <i>06/2020</i>
