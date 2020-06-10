@@ -79,7 +79,7 @@ figure.foto-legenda {
 
 figure.foto-legenda img {
 	width: 100%;
-	heigth: 100%;
+	/*height: 100%;*/
 }
 
 figure.foto-legenda figcaption {

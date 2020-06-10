@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+section#conteudo {
+	width: 1000px;
+	margin: auto;	
+}
+
+.scroll-escondido {
+	float: right;
+	width: 454px;
+	height: 300px;
+	margin-right: 40px;
+	overflow-x: hidden;
+	overflow-y: hidden;
+	margin-top: -10px;
+}
+
+
+iframe#frame-spec {
+	width: 420px;
+	height: 300px;
+	margin-left: 50px;
+	border: none;
+	margin-top: -10px;
+}
+
+/*
+iframe#frame-spec::-moz-scrollbar {
+	display: none;
+}*/

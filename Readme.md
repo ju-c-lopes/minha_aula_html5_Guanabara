@@ -22,10 +22,12 @@ Até aqui:
 	<li>JavaScript com objetos</li>
 	<li>Funções JavaScript</li>
 	<li>Integrando JavaScript e HTML</li>
+	<li>Iframe</li>
+	<li>Mapas de Imagens</li>
 </ul>
 <br/>
 
 <img src="_imagens/glass-oculos-preto-min.png"/>
-<a href="https://www.youtube.com/watch?v=UrIWMJIhwTU&t=920s" target="_blank">Aula 25</a><a href="https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ" target="_blank"><img src="_imagens/cursoemvideo-logo.png"/></a>
+<a href="https://www.youtube.com/watch?v=KcJzovbw_yY" target="_blank">Aula 28</a><a href="https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ" target="_blank"><img src="_imagens/cursoemvideo-logo.png"/></a>
 &reg;
 <i>06/2020</i>
