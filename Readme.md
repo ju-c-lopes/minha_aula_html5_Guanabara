@@ -24,10 +24,11 @@ Até aqui:
 	<li>Integrando JavaScript e HTML</li>
 	<li>Iframe</li>
 	<li>Mapas de Imagens</li>
+	<li>Album de fotos com CSS3</li>
 </ul>
 <br/>
 
 <img src="_imagens/glass-oculos-preto-min.png"/>
-<a href="https://www.youtube.com/watch?v=KcJzovbw_yY" target="_blank">Aula 28</a><a href="https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ" target="_blank"><img src="_imagens/cursoemvideo-logo.png"/></a>
+<a href="https://www.youtube.com/watch?v=g7d8pbEu3oM&t=316s" target="_blank">Aula 30</a><a href="https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ" target="_blank"><img src="_imagens/cursoemvideo-logo.png"/></a>
 &reg;
 <i>06/2020</i>

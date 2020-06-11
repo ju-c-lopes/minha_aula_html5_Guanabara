@@ -23,8 +23,3 @@ iframe#frame-spec {
 	border: none;
 	margin-top: -10px;
 }
-
-/*
-iframe#frame-spec::-moz-scrollbar {
-	display: none;
-}*/
