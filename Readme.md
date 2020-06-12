@@ -30,6 +30,6 @@ Até aqui:
 <br/>
 
 <img src="_imagens/glass-oculos-preto-min.png"/><br/><br/>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/90uPbUirZ3I?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><br/>Aula 32<br/><br/><a href="https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ" target="_blank" margin-top="10px"><img src="_imagens/cursoemvideo-logo.png"/></a><br/>
+<a href="https://www.youtube.com/watch?v=90uPbUirZ3I" target="_blank">Aula 32<br/><a/><a href="https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ" target="_blank" margin-top="10px"><img src="_imagens/cursoemvideo-logo.png"/></a><br/>
 &reg;
 <i>06/2020</i>
