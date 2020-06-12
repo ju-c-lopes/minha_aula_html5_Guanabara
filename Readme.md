@@ -25,10 +25,11 @@ Até aqui:
 	<li>Iframe</li>
 	<li>Mapas de Imagens</li>
 	<li>Album de fotos com CSS3</li>
+	<li>Áudio e Vídeo HTML5 e CSS3</li>
 </ul>
 <br/>
 
-<img src="_imagens/glass-oculos-preto-min.png"/>
-<a href="https://www.youtube.com/watch?v=g7d8pbEu3oM&t=316s" target="_blank">Aula 30</a><a href="https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ" target="_blank"><img src="_imagens/cursoemvideo-logo.png"/></a>
+<img src="_imagens/glass-oculos-preto-min.png"/><br/><br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/90uPbUirZ3I?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><br/>Aula 32<br/><br/><a href="https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ" target="_blank" margin-top="10px"><img src="_imagens/cursoemvideo-logo.png"/></a><br/>
 &reg;
 <i>06/2020</i>
