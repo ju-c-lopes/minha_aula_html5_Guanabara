@@ -26,10 +26,11 @@ Até aqui:
 	<li>Mapas de Imagens</li>
 	<li>Album de fotos com CSS3</li>
 	<li>Áudio e Vídeo HTML5 e CSS3</li>
+	<li>Formulários</li>
 </ul>
 <br/>
 
 <img src="_imagens/glass-oculos-preto-min.png"/><br/><br/>
-<a href="https://www.youtube.com/watch?v=90uPbUirZ3I" target="_blank">Aula 32<br/><br/><a/><a href="https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ" target="_blank" margin-top="10px"><img src="_imagens/cursoemvideo-logo.png"/></a><br/>
+<a href="https://www.youtube.com/watch?v=lwuDJN9Udfc" target="_blank">Aula 34</a><br/><br/><a href="https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ" target="_blank" margin-top="10px"><img src="_imagens/cursoemvideo-logo.png"/></a><br/>
 &reg;
 <i>06/2020</i>
